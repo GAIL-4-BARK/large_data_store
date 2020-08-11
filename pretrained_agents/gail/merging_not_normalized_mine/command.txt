@@ -1,0 +1,1 @@
+/home/ubuntu/.cache/bazel/_bazel_ubuntu/08f174b6db86259ea9ffaac41076319d/execroot/bark_ml/bazel-out/k8-fastbuild/bin/examples/gail.runfiles/bark_ml/examples/gail.py --mode=train
