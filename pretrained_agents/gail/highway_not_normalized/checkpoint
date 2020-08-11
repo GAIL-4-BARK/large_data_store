@@ -1,0 +1,12 @@
+model_checkpoint_path: "ckpt-12877"
+all_model_checkpoint_paths: "ckpt-12873"
+all_model_checkpoint_paths: "ckpt-12874"
+all_model_checkpoint_paths: "ckpt-12875"
+all_model_checkpoint_paths: "ckpt-12876"
+all_model_checkpoint_paths: "ckpt-12877"
+all_model_checkpoint_timestamps: 1597179795.8847222
+all_model_checkpoint_timestamps: 1597179798.7085137
+all_model_checkpoint_timestamps: 1597179801.5800314
+all_model_checkpoint_timestamps: 1597179804.3869069
+all_model_checkpoint_timestamps: 1597179807.161745
+last_preserved_timestamp: 1597141662.2048442
